@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "RHOC",
+      "properties": {
+        "name": "The Real Housewives of Orange County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117, 33]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RHONY",
+      "properties": {
+        "name": "The Real Housewives of New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9, 40.7]
+      }
+    }
+  ]
+}
